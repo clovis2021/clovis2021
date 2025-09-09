@@ -1,8 +1,8 @@
 ## Olá! Eu sou Clóvis Oliveira. 
 
-- 🔭 Atualmente trabalho com administração
-- 🌱 Estudando programação web
-- 👯 I’m looking to collaborate on ...
+- 🔭 Trabalho com administração
+- 🌱 Estudando programação web.
+- 👯 Desejo participar em projetos web!
   
 <div>
 <a href="https://github.com/clovis2021">
